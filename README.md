@@ -1,2 +1,3 @@
 # AboutMe
-blob:https://teams.microsoft.com/14b6610f-bbbe-4c40-8921-c8b8d431c38f
+<img width="960" alt="Untitled1" src="https://user-images.githubusercontent.com/95918824/145943650-e3a3e069-a0ce-4e10-a9c3-4bc85fc9f35a.png">
+
